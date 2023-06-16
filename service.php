@@ -2,8 +2,6 @@
 <!doctype html>
 <html class="no-js" lang="en">
 
-
-<!-- Mirrored from thepixelcurve.com/html/techwix/techwix/service.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 31 May 2023 11:49:01 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">

@@ -61,10 +61,6 @@
                       <li><a href="mobile">Mobile Applications</a></li>
                       <li><a href="UI">UI/UX Designs</a></li>
                       <li><a href="Digital">Software Consultancy</a></li>
-                      <li><a href="App">AppRobo</a></li>
-                      <li><a href="Jama">Jamavoice</a></li>
-                      <li><a href="Biller">PerfectBiller</a></li>
-                      <li><a href="Portal">OnePortal</a></li>
                     </ul>
                   </div>
                 </div>

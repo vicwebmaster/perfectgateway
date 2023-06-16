@@ -395,13 +395,12 @@ background: linear-gradient(90deg, rgba(221,11,113,1) 0%, rgba(59,37,52,0.711922
                                         </div>
                                         <div class="team-content">
                                             <h3 class="name"><a href="team">Jerry<br> Chukwudi</a></h3>
-                                            <span class="designation">CEO, Perfect Gateway Limited</span>
+                                            <span class="designation">Product Developer</span>
                                             <div class="team-social">
                                                 <ul class="social">
                                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-behance"></i></a></li>
+                                                   
                                                 </ul>
                                             </div>
                                         </div>
@@ -415,14 +414,13 @@ background: linear-gradient(90deg, rgba(221,11,113,1) 0%, rgba(59,37,52,0.711922
                                             <a href="team"><img src="assets/images/Divine.jpg" alt=""></a>
                                         </div>
                                         <div class="team-content">
-                                            <h3 class="name"><a href="team.html">Divine <br>Diamond</a></h3>
-                                            <span class="designation"> Manager, Perfect Gateway Limited</span>
+                                            <h3 class="name"><a href="team.html">Divine <br>Dike</a></h3>
+                                            <span class="designation"> CTO</span>
                                             <div class="team-social">
                                                 <ul class="social">
                                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-behance"></i></a></li>
+                                                    
                                                 </ul>
                                             </div>
                                         </div>
@@ -436,14 +434,13 @@ background: linear-gradient(90deg, rgba(221,11,113,1) 0%, rgba(59,37,52,0.711922
                                             <a href="team"><img src="assets/images/Dera.jpg" alt=""></a>
                                         </div>
                                         <div class="team-content">
-                                            <h3 class="name"><a href="team.html">Udenze<br> Dera</a></h3>
-                                            <span class="designation">HRM, Perfect Gateway Limited</span>
+                                            <h3 class="name"><a href="team.html">Udenze<br>Chidera</a></h3>
+                                            <span class="designation">Project Manager</span>
                                             <div class="team-social">
                                                 <ul class="social">
                                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-behance"></i></a></li>
+                                                   
                                                 </ul>
                                             </div>
                                         </div>
@@ -458,13 +455,12 @@ background: linear-gradient(90deg, rgba(221,11,113,1) 0%, rgba(59,37,52,0.711922
                                         </div>
                                         <div class="team-content">
                                             <h3 class="name"><a href="team.html">Victor<br>Ifeanyi</a></h3>
-                                            <span class="designation">Developer, Perfect Gateway Limited</span>
+                                            <span class="designation">Software Developer</span>
                                             <div class="team-social">
                                                 <ul class="social">
                                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                                                    <li><a href="#"><i class="fab fa-behance"></i></a></li>
+                                                   
                                                 </ul>
                                             </div>
                                         </div>

@@ -3,7 +3,6 @@
 <html class="no-js" lang="en">
 
 
-<!-- Mirrored from thepixelcurve.com/html/techwix/techwix/team.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 31 May 2023 11:49:01 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -131,7 +130,7 @@
                                 </div>
                                 <div class="team-content">
                                     <h3 class="name"><a href="#">Jerry<br> Chukwudi</a></h3>
-                                    <span class="designation">CEO, Perfect Gateway Limited</span>
+                                    <span class="designation">Product Developer</span>
                                     <div class="team-social">
                                         <ul class="social">
                                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -150,8 +149,8 @@
                                     <a href="team"><img src="assets/images/Divine.jpg" alt=""></a>
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="name"><a href="#">Divine <br> Diamond</a></h3>
-                                    <span class="designation">Manager, Perfect Gateway Limited</span>
+                                    <h3 class="name"><a href="#">Divine <br> Dike</a></h3>
+                                    <span class="designation">CTO</span>
                                     <div class="team-social">
                                         <ul class="social">
                                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -169,8 +168,8 @@
                                     <a href="team"><img src="assets/images/Dera.jpg" alt=""></a>
                                 </div>
                                 <div class="team-content">
-                                    <h3 class="name"><a href="#">Udenze<br> Dera</a></h3>
-                                    <span class="designation">HRM, Perfect Gateway Limited</span>
+                                    <h3 class="name"><a href="#">Udenze<br> Chidera</a></h3>
+                                    <span class="designation">Project Manager</span>
                                     <div class="team-social">
                                         <ul class="social">
                                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -190,7 +189,7 @@
                                 </div>
                                 <div class="team-content">
                                     <h3 class="name"><a href="#">Victor <br> Ifeanyi</a></h3>
-                                    <span class="designation">Developer, Perfect Gateway Limited</span>
+                                    <span class="designation">Software Developer</span>
                                     <div class="team-social">
                                         <ul class="social">
                                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>

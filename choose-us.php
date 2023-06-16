@@ -2,8 +2,6 @@
 <!doctype html>
 <html class="no-js" lang="en">
 
-
-<!-- Mirrored from thepixelcurve.com/html/techwix/techwix/choose-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 31 May 2023 11:49:02 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -174,7 +172,7 @@
                                     </div>
                                     <div class="choose-us-content">
                                         <h3 class="title"><a href="#">Deploy</a></h3>
-                                        <p>Before going online, we test for any issues. We plan to move the website to the final web server and make sure the domain and DNS strategy was set up in the discovery phase. Before launch, new sites are usually on the live server. Redesigns involve deleting old code from the live server and delivering new code. </p>
+                                        <p>Before going online, we test for any issues. We plan to move the website to the final web server and make sure the domain and DNS strategy was set up in the discovery phase. </p>
                                     </div>
                                 </div>
                                 <!-- Choose Us Item End -->

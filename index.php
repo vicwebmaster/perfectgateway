@@ -1,7 +1,7 @@
 <?php include "component/config.php";?>
 <!DOCTYPE html>
 <html class="no-js" lang="en">
-  <!-- Mirrored from thepixelcurve.com/html/techwix/techwix/index-5.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 31 May 2023 11:44:01 GMT -->
+
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
@@ -65,7 +65,7 @@
               <!-- Hero Content Start -->
               <div class="hero-content">
                 <h3 class="sub-title" data-aos-delay="600" data-aos="fade-up">
-                  <span>HOT !</span>we revitalize your business
+                  <span>HOT !</span>  We Revitalize Your Business
                 </h3>
                 <h2 class="title" data-aos="fade-up" data-aos-delay="800">
                   Your partner for IT solutions
@@ -100,7 +100,7 @@
           <div class="service-wrap">
             <div class="section-title text-center">
               <h2 class="title">
-              We offer top IT solutions.
+              We Offer Top IT Solutions.
               </h2>
             </div>
             <div class="service-content-wrap">
@@ -246,7 +246,7 @@
 
       <!-- About Start -->
       <div class="section techwix-about-section-02 section-padding">
-        <div class="container">
+        <div class="container" style="padding-bottom: 60px;">
           <!-- About Wrapper Start -->
           <div class="about-wrap">
             <div class="row">
@@ -255,14 +255,10 @@
                 <div class="about-02-left text-center">
                   <div class="section-title">
                     <h2 class="title">
-                      You know you did right when all your effort started to pay
-                      off in an unexpected and impressive way.
+                      Explore the diverse world of information technology with Us
                     </h2>
                   </div>
-                  <div class="about-author">
-                    <h3 class="name">Jerry Chukwudi</h3>
-                    <span class="designation">CEO, Perfect Gateway Limited</span>
-                  </div>
+                 
                 </div>
                 <!-- About Left End -->
               </div>
@@ -374,47 +370,6 @@
       <!-- Counter End -->
 
     
-
-      <!-- Testimonial Start  -->
-      <div class="section techwix-testimonial-section section-padding-02">
-        <div class="container">
-          <!-- Testimonial Wrap Start  -->
-          <div class="testimonial-wrap">
-            <div class="row">
-              <div class="col-lg-6">
-                <div class="testimonial-img">
-                  <div class="shape-1">
-                    <img src="assets/images/shape/testi-shape1.png" alt="" />
-                  </div>
-                  <img src="assets/images/testi-img.png" alt="" />
-                </div>
-              </div>
-              <div class="col-lg-6">
-                <div class="testimonial-content-wrap">
-                  <div class="swiper-container testimonial-active">
-                    <div class="swiper-wrapper">
-                      <div class="swiper-slide">
-                        <!--  Single Testimonial Start  -->
-                        <div class="single-testimonial">
-                          <p>
-                          We have competent programmers in a variety of computer programming technology stacks.
-                          </p>
-                          <span class="name">Jerry Chukwudi</span>
-                          <span class="designation"> / CEO, Perfect Gateway</span>
-                        </div>
-                        <!--  Single Testimonial End  -->
-                      </div>
-                     
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- Testimonial Wrap End  -->
-        </div>
-      </div>
-      <!-- Testimonial End  -->
 
 
     <?php include 'footer.php';?>

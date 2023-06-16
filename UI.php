@@ -1,7 +1,7 @@
 <?php include "component/config.php";?>
 <!DOCTYPE html>
 <html class="no-js" lang="en">
-  <!-- Mirrored from thepixelcurve.com/html/techwix/techwix/index-5.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 31 May 2023 11:44:01 GMT -->
+
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
@@ -102,12 +102,8 @@
                 <div class="about-02-left text-center">
                   <div class="section-title">
                     <h2 class="title">
-                    When all your work began to pay off in an astonishing and unexpected way, you know you done the right thing.
+                     Explore the diverse world of information technology with Us
                     </h2>
-                  </div>
-                  <div class="about-author">
-                    <h3 class="name">Jerry Chukwudi</h3>
-                    <span class="designation">CEO, Perfect Gateway Limited</span>
                   </div>
                 </div>
                 <!-- About Left End -->
@@ -250,13 +246,10 @@
                 <div class="about-02-left text-center">
                   <div class="section-title">
                     <h2 class="title">
-                    You knew you did the right thing when your hard effort paid off unexpectedly.
+                    Lets Us be your technology partner, empowering your business to thrive in the digital age.
                     </h2>
                   </div>
-                  <div class="about-author">
-                    <h3 class="name">Jerry Chukwudi</h3>
-                    <span class="designation">CEO, Perfect Gateway Limited</span>
-                  </div>
+                 
                 </div>
                 <!-- About Left End -->
               </div>

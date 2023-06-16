@@ -3,7 +3,7 @@
 <html class="no-js" lang="en">
 
 
-<!-- Mirrored from thepixelcurve.com/html/techwix/techwix/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 31 May 2023 11:49:21 GMT -->
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -139,8 +139,8 @@
                                 </div>
                                 <div class="info-content">
                                     <h5 class="title">Give us a call</h5>
-                                    <p>(+234) 911 072 7974</p>
-                                    <p>(+234) 706 448 6121</p>
+                                    <p>(+234) 911 072 7973</p>
+                                    
                                 </div>
                             </div>
                             <!--Single Contact Info End -->

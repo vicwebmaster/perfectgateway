@@ -1,7 +1,7 @@
 <?php include "component/config.php";?>
 <!DOCTYPE html>
 <html class="no-js" lang="en">
-  <!-- Mirrored from thepixelcurve.com/html/techwix/techwix/index-5.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 31 May 2023 11:44:01 GMT -->
+
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
