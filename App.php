@@ -5,9 +5,14 @@
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title><?php echo $sysInfo['name']; ?></title>
+    <title>Our Services - At Perfect Gateway, we specialize in mobile application and website development</title>
     <meta name="robots" content="noindex, follow" />
-    <meta name="description" content="" />
+    <meta name="keywords" content="software website perfect gateway perfectgateway developers seo developer app application mobile data phone development" />
+    <meta name="description" content="At Perfect Gateway, we specialize in mobile application and website development, 
+providing responsive web design with tailored solutions that cater to your unique business needs. 
+Our team of skilled developers and designers combine their expertise to create exceptional mobile 
+applications and websites that are visually appealing, 
+user-friendly, and optimized for superior performance." />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"

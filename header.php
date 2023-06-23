@@ -6,7 +6,7 @@
           <div class="header-wrap">
             <div class="header-logo">
               <div style="display:flex; flex-direction:row">
-                  <a class="footer-logo" href="index" 
+                  <a class="footer-logo" href="./" 
                     ><img src="assets/images/perfect.png" alt="Logo" style="width:40px;margin-top:1px; margin-right:2px"
                   /></a>
                   <h4 style="color:black;margin-top:8px">Perfect Gateway Limited</h4>
@@ -16,7 +16,7 @@
             <div class="header-menu d-none d-lg-block">
               <ul class="main-menu">
                 <li class="active-menu">
-                  <a href="index">Home</a>
+                  <a href="./">Home</a>
                 </li>
                 <li>
                   <a href="about">About Us</a>
@@ -72,7 +72,7 @@
               <!-- Header Search End -->
 
               <div class="header-btn d-none d-xl-block">
-                <a class="btn" href="index">Get Started</a>
+                <a class="btn" href="./">Get Started</a>
               </div>
               <!-- Header Toggle Start -->
               <div class="header-toggle d-lg-none">
